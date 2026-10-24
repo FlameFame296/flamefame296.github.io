@@ -127,9 +127,10 @@ body {
     /* GALLERY */
 
 .gallery-image {
-    width: fill;
+    max-width: 500px;
+    width: 100%;
 
-    height: fill;
+    height: auto;
 
     display: block;
 
