@@ -141,8 +141,8 @@ body {
 }
 
 .photo-grid {
-    width: 3000px !important;
-    max-width: 3000px !important;
+    width: 1920px !important;
+    max-width: 1920px !important;
     height: auto !important;
     
     display: flex;
