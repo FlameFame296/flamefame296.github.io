@@ -125,7 +125,22 @@ body {
 
     border-radius: 10px;
     /* GALLERY */
+.gallery-image {
+    width: 100%;
+    max-width: 500px;
 
+    height: auto;
+
+    display: block;
+
+    margin: 15px auto;
+
+    border-radius: 10px;
+
+    border: 2px solid #00c3ff;
+
+    box-shadow: 0 0 15px rgba(0, 195, 255, 0.3);
+}
 /* FOOTER */
 
 footer {
