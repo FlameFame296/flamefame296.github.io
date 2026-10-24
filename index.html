@@ -1,31 +1,56 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Benjamin's Website</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Benjamin M. Taylor's Domain</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <header>
-        <h1>Benjamin's Website</h1>
-        <p>Welcome to my website!</p>
-    </header>
+    <section class="hero">
 
-    <main>
-        <h2>About Me</h2>
-        <p>I enjoy gaming, modding, trucks, and creating things.</p>
+        <video autoplay muted loop playsinline id="bg-video">
+            <source src="Domain.mp4" type="video/mp4">
+        </video>
 
-        <h2>My Favorite Games</h2>
-        <ul>
-            <li>American Truck Simulator</li>
-            <li>Assetto Corsa</li>
-            <li>Star Stable Online</li>
-        </ul>
-    </main>
+        <div class="overlay">
+            <h1>Welcome to<br>Benjamin M. Taylor's Domain</h1>
+        </div>
 
-    <footer>
-        <p>© 2026 Benjamin</p>
-    </footer>
+    </section>
+
+    <nav class="navbar">
+        <a href="index.html">Home</a>
+        <a href="aboutme.html">About Me</a>
+        <a href="benfiles.html">Ben Files</a>
+    </nav>
+
+    <section class="facts">
+
+        <h2>Quick Facts</h2>
+
+        <div class="fact-box">
+            <strong>Age:</strong> 15
+        </div>
+
+        <div class="fact-box">
+            <strong>Gender:</strong> Male
+        </div>
+
+        <div class="fact-box">
+            <strong>Grade:</strong> 9th Grade
+        </div>
+
+        <div class="fact-box">
+            <strong>Location:</strong> Tennessee, USA
+        </div>
+
+        <a class="about-button" href="aboutme.html">
+            Learn More About Me
+        </a>
+
+    </section>
 
 </body>
 </html>
