@@ -128,13 +128,10 @@ body {
 
 .gallery-image {
     width: 100%;
-    max-width: 1000px;
-
-    display: block;
-
-    margin-top: 15px;
-
+    max-width: 1200px;
     border-radius: 10px;
+    margin-top: 15px;
+    display: block;
 }
 
 /* FOOTER */
