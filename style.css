@@ -149,7 +149,7 @@ body {
     
     display: flex;
     justify-content: center;
-    gap: 15px;
+    gap: 0px;
     flex-wrap: wrap;
 }
 
