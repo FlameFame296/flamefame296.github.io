@@ -130,8 +130,8 @@ body {
 /* RECENT PHOTOS */
 
 .gallery-image {
-    width: 600px !important;
-    max-width: 600px !important;
+    width: 1200px !important;
+    max-width: 1200px !important;
     height: auto !important;
 
     border-radius: 10px;
@@ -141,6 +141,10 @@ body {
 }
 
 .photo-grid {
+    width: 1200px !important;
+    max-width: 1200px !important;
+    height: auto !important;
+    
     display: flex;
     justify-content: center;
     gap: 20px;
