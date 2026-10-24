@@ -134,10 +134,10 @@ body {
     max-width: 3000px !important;
     height: auto !important;
 
-    border-radius: 50px;
-    border: 15px solid #00c3ff;
+    border-radius: 10px;
+    border: 2px solid #00c3ff;
 
-    margin: 20px;
+    margin: 10px;
 }
 
 .photo-grid {
