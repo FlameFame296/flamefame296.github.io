@@ -130,13 +130,14 @@ body {
 /* RECENT PHOTOS */
 
 .gallery-image {
-    width: 180px !important;
+    width: 150px !important;
+    max-width: 150px !important;
     height: auto !important;
 
     border-radius: 10px;
     border: 2px solid #00c3ff;
 
-    display: block;
+    margin: 10px;
 }
 
 .photo-grid {
@@ -165,5 +166,4 @@ footer {
 
 footer p {
     margin: 5px 0;
-}
 }
