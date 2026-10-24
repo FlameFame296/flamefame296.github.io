@@ -127,9 +127,9 @@ body {
     /* GALLERY */
 
 .gallery-image {
-    width: 50%;
+    width: fill;
 
-    height: 50%;
+    height: fill;
 
     display: block;
 
