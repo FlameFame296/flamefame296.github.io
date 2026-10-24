@@ -134,6 +134,8 @@ body {
     max-width: 1920px !important;
     height: auto !important;
 
+    object-fit: cover;
+
     border-radius: 10px;
     border: 2px solid #00c3ff;
 
@@ -147,7 +149,7 @@ body {
     
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 15px;
     flex-wrap: wrap;
 }
 
