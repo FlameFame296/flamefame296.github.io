@@ -130,19 +130,19 @@ body {
 /* RECENT PHOTOS */
 
 .gallery-image {
-    width: 1200px !important;
-    max-width: 1200px !important;
+    width: 3000px !important;
+    max-width: 3000px !important;
     height: auto !important;
 
-    border-radius: 10px;
-    border: 2px solid #00c3ff;
+    border-radius: 50px;
+    border: 15px solid #00c3ff;
 
-    margin: 10px;
+    margin: 20px;
 }
 
 .photo-grid {
-    width: 1920px !important;
-    max-width: 1920px !important;
+    width: 3000px !important;
+    max-width: 3000px !important;
     height: auto !important;
     
     display: flex;
