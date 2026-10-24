@@ -127,15 +127,14 @@ body {
     /* GALLERY */
 
 .gallery-image {
-    width: 100%;
+    width: 75%;
     max-width: 900px;
 
     height: auto;
 
     display: block;
 
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin: 15px auto;
 
     border-radius: 10px;
 
