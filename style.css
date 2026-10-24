@@ -143,16 +143,14 @@ body {
 }
 
 .photo-grid {
-    width: 2000px !important;
-    max-width: 2000px !important;
-    height: auto !important;
-    
     display: flex;
-    justify-content: center;
-    gap: 0px;
     flex-wrap: wrap;
-}
 
+    gap: 15px;
+
+    justify-content: flex-start;
+    align-items: flex-start;
+}
 
 /* FOOTER */
 
