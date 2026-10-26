@@ -142,7 +142,7 @@ font-family: "OCR A Extended", monospace;
     border-radius: 10px;
     border: 2px solid #00c3ff;
     
-    display: block;
+    display: flex;
     justify-content: flex-start;
     gap: 15px;
     flex-direction: wrap;
@@ -155,7 +155,7 @@ font-family: "OCR A Extended", monospace;
 
     object-fit: cover;
     
-    display: block;
+    display: flex;
     justify-content: flex-start;
     gap: 15px;
     flex-direction: wrap;
