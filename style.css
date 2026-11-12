@@ -75,7 +75,7 @@ font-family: "OCR A Extended", monospace;
     color: white;
     text-decoration: none;
 
-    border: 2px solid #00c3ff;
+    border: 2px solid #a855f7;
 
     padding: 12px 24px;
 
@@ -85,7 +85,7 @@ font-family: "OCR A Extended", monospace;
 }
 
 .navbar a:hover {
-    background: #00c3ff;
+    background: #a855f7;
 }
 
 /* FACTS */
@@ -105,7 +105,7 @@ font-family: "OCR A Extended", monospace;
 .fact-box {
     background: #222;
 
-    border-left: 5px solid #00c3ff;
+    border-left: 5px solid #a855f7;
 
     padding: 20px;
     margin-bottom: 15px;
@@ -118,7 +118,7 @@ font-family: "OCR A Extended", monospace;
 
     margin-top: 30px;
 
-    background: #00c3ff;
+    background: #a855f7;
     color: white;
 
     text-decoration: none;
@@ -142,7 +142,7 @@ font-family: "OCR A Extended", monospace;
     height: auto;
     display: block;
     border-radius: 10px;
-    border: 2px solid #00c3ff;
+    border: 2px solid #a855f7;
 }
 
 .photo-card p {
@@ -155,7 +155,7 @@ font-family: "OCR A Extended", monospace;
 footer {
     background: #111;
 
-    border-top: 2px solid #00c3ff;
+    border-top: 2px solid #a855f7;
 
     padding: 25px;
 
